@@ -1,0 +1,116 @@
+.col-sm-12 {
+    text-align: center;
+}
+#top_container {
+    /*background-image: url();*/
+    background: url(../img/surf.jpeg);
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    padding-bottom: 100px;
+    color: white;
+    text-align:center
+    /*border: 10px solid red;*/
+    }
+#middle_container {
+    border: 10px solid white;
+    margin-top: 20px;
+}
+#bottom_container {
+    border: 5px solid white;
+    padding-left: 0;
+}
+#banner {color:black;
+    font-size: 14px;
+}
+#blue {
+    color: #0088cc;
+}
+#blue-icon {
+    color: #0088cc;
+    font-size: 8px;
+}
+.grey-text {
+    color: #bfbfbf;
+}
+h3 {
+    border-left: 2px solid #bfbfbf;
+    padding: 15px;
+}
+h5 {
+    font-size: 12px;
+}
+.top-nav {
+    padding-top: 10px;
+}
+.banner-header {
+    margin-top:50px;
+}
+.about{
+    display: inline-block;;
+    padding-left: 5px;
+    color: black;
+}
+.description {
+    color: black;
+    font-size: 12px;
+}
+.about-ad {
+    text-align: right;
+    text-decoration: underline;
+    color: #cccccc;
+}
+#search {
+    width: 15px;
+}
+#wave {
+    width: 30px;
+}
+.bottom-left {
+    font-size: 10px;
+}
+.anne-marie {
+    display: block;
+    height:65px;
+    width: 65px;
+    margin: 0 auto;
+    margin-bottom: 0;
+    /*border: 1px solid red;*/
+    border-radius: 50%;
+    flex: 4;
+}
+.icon {
+    /*display: block;*/
+    height:20px;
+    width: 20px;
+    margin: 0 auto;
+    margin-bottom: 0;
+    /*border: 1px solid red;*/
+    border-radius: 50%;
+    flex: 4;
+}
+.social-media {
+    font-size: 12px;
+    text-align: center;
+    color: #cccccc;
+}
+.sidebar {
+    /*border:5px solid white;*/
+    margin-top: 20px;
+}
+.footer {
+    background-color: #005580;
+    color: white;
+    font-size: 12px;
+    /*border: 5px solid red;*/
+    padding: 20px;
+}
+.popular-posts {
+    padding: 20px;
+}
+#picture-row {
+margin: 0 auto;
+margin-left: 0;
+padding-left: 5px solid green;
+width:100%;
+}

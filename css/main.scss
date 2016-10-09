@@ -1,0 +1,35 @@
+@import "settings";
+@import "../bootstrap-sass-3.3.7/assets/stylesheets/bootstrap/variables";
+@import "../bootstrap-sass-3.3.7/assets/stylesheets/bootstrap";
+
+
+
+* {
+    box-sizing: border-box;
+}
+body {
+
+}
+
+#box1 {
+    // width: (960px / 3);
+    border: 1px solid $color1;
+    padding: $padding;
+
+        // &:hover {
+        //     background-color: $gradient;
+        //     padding: $paddingHover;
+        // }
+
+        & >h1 {
+            color: $color1;
+        }
+}
+
+#box2 {
+    border: 1px solid $color2;
+    padding: $padding;
+}
+#box2 > h1 {
+    color: lighten($color2, 20%);
+}
