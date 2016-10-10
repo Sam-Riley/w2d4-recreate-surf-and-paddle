@@ -26,11 +26,18 @@
 #blue {
     color: #0088cc;
 }
-#blue-icon {
+.blue-icon {
     color: #0088cc;
-    font-size: 8px;
+}
+.blue-text {
+    color: #0088cc;
+    text-decoration: underline;
 }
 .grey-text {
+    color: #bfbfbf;
+    text-decoration: underline;
+}
+.grey-text-side {
     color: #bfbfbf;
 }
 h3 {
@@ -111,6 +118,28 @@ h5 {
 #picture-row {
 margin: 0 auto;
 margin-left: 0;
-padding-left: 5px solid green;
 width:100%;
+}
+.pic1 {
+    background: url(http://unsplash.it/235/260?image=65);
+    background-size: cover;
+    height: 25vw;
+    text-align: left;
+}
+.pic2 {
+    background: url(http://unsplash.it/235/260?image=33);
+    background-size: cover;
+    height: 25vw;
+    text-align: left;
+}
+.pic3{
+    background:  url(http://unsplash.it/235/260?image=22);
+    background-size: cover;
+    height: 25vw;
+        text-align: left;
+}
+.pic4 {
+    background: url(http://unsplash.it/235/260?image=206);
+    background-size: cover;
+    height: 25vw;
 }
