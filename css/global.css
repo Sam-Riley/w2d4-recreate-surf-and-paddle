@@ -23,7 +23,7 @@
 #banner {color:black;
     font-size: 14px;
 }
-#blue {
+.blue {
     color: #0088cc;
 }
 .blue-icon {
@@ -70,7 +70,7 @@ h5 {
 #search {
     width: 15px;
 }
-#wave {
+.wave {
     width: 30px;
 }
 .bottom-left {
