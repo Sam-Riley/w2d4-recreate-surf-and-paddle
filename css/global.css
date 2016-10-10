@@ -3,7 +3,8 @@
 }
 #top_container {
     /*background-image: url();*/
-    background: url(../img/surf.jpeg);
+    background:linear-gradient(rgba(13, 93, 179, 0.81), rgba(13, 93, 179, 0.81)), url(../img/surf.jpeg);
+
     background-position: center;
     background-attachment: scroll;
     background-size: cover;
@@ -106,7 +107,7 @@ h5 {
     margin-top: 20px;
 }
 .footer {
-    background-color: #005580;
+    background-color: #004466;
     color: white;
     font-size: 12px;
     /*border: 5px solid red;*/
@@ -121,25 +122,26 @@ margin-left: 0;
 width:100%;
 }
 .pic1 {
-    background: url(http://unsplash.it/235/260?image=65);
+    background: linear-gradient(rgba(13, 93, 179, 0.81), rgba(13, 93, 179, 0.81)), url(http://unsplash.it/235/260?image=65);
     background-size: cover;
     height: 25vw;
     text-align: left;
 }
 .pic2 {
-    background: url(http://unsplash.it/235/260?image=33);
+    background:  url(http://unsplash.it/235/260?image=33);
     background-size: cover;
     height: 25vw;
     text-align: left;
 }
 .pic3{
-    background:  url(http://unsplash.it/235/260?image=22);
+    background: linear-gradient(rgba(13, 93, 179, 0.81), rgba(13, 93, 179, 0.81)), url(http://unsplash.it/235/260?image=155);
     background-size: cover;
     height: 25vw;
         text-align: left;
 }
 .pic4 {
-    background: url(http://unsplash.it/235/260?image=206);
+    background: linear-gradient(rgba(13, 93, 179, 0.81), rgba(13, 93, 179, 0.81)), url(http://unsplash.it/235/260?image=206);
     background-size: cover;
     height: 25vw;
+
 }
